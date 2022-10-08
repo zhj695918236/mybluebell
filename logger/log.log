@@ -1,0 +1,4 @@
+2022/08/13 21:30:50 error fetching url www.google.com:Get "www.google.com": unsupported protocol scheme ""
+2022/08/13 21:31:11 error fetching url http://www.google.com:Get "http://www.google.com": dial tcp 128.121.243.77:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2022/08/13 21:32:57 error fetching url www.google.com:Get "www.google.com": unsupported protocol scheme ""
+2022/08/13 21:33:18 error fetching url http://www.google.com:Get "http://www.google.com": dial tcp 128.121.243.77:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

@@ -1,0 +1,50 @@
+{"level":"INFO","time":"2022-08-21T12:11:37.052+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T12:25:21.293+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T12:28:29.889+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T12:32:13.946+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"invalid character '\\'' looking for beginning of value"}
+{"level":"ERROR","time":"2022-08-21T12:32:30.302+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"invalid character '\\'' looking for beginning of value"}
+{"level":"ERROR","time":"2022-08-21T12:33:20.141+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"invalid character '\\'' looking for beginning of value"}
+{"level":"ERROR","time":"2022-08-21T12:34:43.947+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"invalid character '\\'' looking for beginning of value"}
+{"level":"ERROR","time":"2022-08-21T12:36:58.187+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"EOF"}
+{"level":"ERROR","time":"2022-08-21T12:37:49.359+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'required' tag\nKey: 'ParamSignup.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-08-21T12:40:18.680+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T12:53:55.021+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T12:59:14.313+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T13:01:06.280+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T13:05:09.159+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:09:52.739+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"sql: expected 3 destination arguments in Scan, not 1"}
+{"level":"INFO","time":"2022-08-21T13:15:40.403+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:15:44.516+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"sql: Scan error on column index 0, name \"user_id\": destination not a pointer"}
+{"level":"INFO","time":"2022-08-21T13:16:47.513+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:16:49.442+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:26:37.325+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:26:40.177+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"sql: expected 3 destination arguments in Scan, not 1"}
+{"level":"INFO","time":"2022-08-21T13:27:50.374+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:27:51.674+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:31:23.455+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T13:32:00.474+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:32:03.092+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"sql: expected 2 destination arguments in Scan, not 1"}
+{"level":"INFO","time":"2022-08-21T13:34:02.719+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:34:04.862+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:34:16.984+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:34:18.182+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"sql: Scan error on column index 0, name \"user_id\": destination not a pointer"}
+{"level":"INFO","time":"2022-08-21T13:37:59.543+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:38:05.645+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:40:10.751+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:40:12.545+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:40:37.901+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:40:40.030+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:41:10.105+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:41:11.281+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:42:25.684+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:42:26.915+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:49:56.266+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T13:49:59.734+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T13:55:10.911+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-08-21T15:03:30.285+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T15:03:30.325+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"ERROR","time":"2022-08-21T15:03:33.029+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T15:08:19.540+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2022-08-21T15:08:22.641+0800","caller":"controller/user.go:56","msg":"logic Login failed","username":"andy","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-08-21T15:09:11.599+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2022-09-21T22:20:24.212+0800","caller":"logger/logger.go:36","msg":"init logger success"}
